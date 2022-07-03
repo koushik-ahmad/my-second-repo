@@ -17,6 +17,7 @@ body {
 }
 
 p {
+    padding: 10px;
     text-align: justify;
     background-color: aqua;
     font-family:'Times New Roman', Times, serif;
